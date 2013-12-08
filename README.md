@@ -1,4 +1,4 @@
 virtualenv
 ==========
 
-my  virtual envioroment for python
+my virtual envioroment for python
